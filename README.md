@@ -8,7 +8,7 @@ $ python validate.py <PATH_TO_PARENT_OF_PROJECT> <PROJECT_NAME>
 
 | Argument | Description | Example  |
 | ------------- |:-------------:| -----:|
-| <PATH_TO_PARENT_OF_PROJECT> | Path to the parent directory containing your project. In other words, the path to the folder containing | /home/student/projects/cse6250/hw4 |
+| <PATH_TO_PARENT_OF_PROJECT> | Path to the parent directory containing your project | /home/student/projects/cse6250/hw4 |
 | <PROJECT_NAME> | The project being validated (currently limited to 'hw4' only) | hw4 |
 
 **Note**: `<PATH_TO_PARENT_OF_PROJECT>` should contain the directory `<GA_TECH_ID>-<GA_TECH_ACCOUNT>-<PROJECT_NAME>/` (Ex. 012345678-johnsmith1-hw4)
