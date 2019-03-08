@@ -15,7 +15,7 @@ project_name = sys.argv[2]
 valid_project_names = ['hw4']
 if project_name not in valid_project_names:
     print("Invalid project name. Valid project names are:")
-    print(*valid_project_names, set='\n')
+    print(*valid_project_names, sep='\n')
 
 project_directory_name_pattern = re.compile('\d{9}-[a-zA-Z0-9]+-' + project_name)
 
