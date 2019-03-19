@@ -12,7 +12,7 @@ if len(sys.argv) < 3:
 parent_dir_path = sys.argv[1]
 project_name = sys.argv[2]
 
-valid_project_names = ['hw4']
+valid_project_names = ['hw4', 'hw5']
 if project_name not in valid_project_names:
     print("Invalid project name. Valid project names are:")
     print(*valid_project_names, sep='\n')

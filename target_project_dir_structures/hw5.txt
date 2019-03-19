@@ -1,0 +1,16 @@
+output/seizure/MyCNN.pth
+output/seizure/MyRNN.pth
+output/seizure/MyMLP.pth
+output/mortality/MyVariableRNN.pth
+output/seizure
+output/mortality
+code/etl_mortality_data.py
+code/train_variable_rnn.py
+code/plots.py
+code/utils.py
+code/mymodels.py
+code/train_seizure.py
+code/mydatasets.py
+homework5_answer.pdf
+output
+code
